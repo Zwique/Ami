@@ -1,5 +1,5 @@
 # Ami
-Glad to encounter another repository. Here, we'll explore Python code for cracking zip files.
+Glad to encounter another repository. Here, we'll explore Python code for cracking zip files. The only input required is the length of the locked password. This information can save time during the brute-forcing process. Moreover, Ami prints out the total taken time for finding the password of zip file.
 
 ## Installation
 
