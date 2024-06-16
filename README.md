@@ -13,3 +13,5 @@ After downloading the file, you will just need to run ``` crack.py ```. Please, 
 ``` sh
 python3 crack.py <zipfilename>
 ```
+
+<img src="https://gifdb.com/images/high/funny-sheep-timmy-dancing-07inbwge7cx5a5gp.gif"/>
